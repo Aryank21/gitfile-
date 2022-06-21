@@ -1,0 +1,6 @@
+gitignored.txt
+
+image
+assignment
+.vscode
+gitignored.txt
